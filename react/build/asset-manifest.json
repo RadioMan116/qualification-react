@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bc5bb74.chunk.css",
+    "main.js": "/static/js/main.0ce55c8c.chunk.js",
+    "main.js.map": "/static/js/main.0ce55c8c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ed23fbc9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ed23fbc9.js.map",
+    "static/js/2.834e3e5f.chunk.js": "/static/js/2.834e3e5f.chunk.js",
+    "static/js/2.834e3e5f.chunk.js.map": "/static/js/2.834e3e5f.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e73fa6ea5d982baef99a945c7c801983.js": "/precache-manifest.e73fa6ea5d982baef99a945c7c801983.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7bc5bb74.chunk.css.map": "/static/css/main.7bc5bb74.chunk.css.map",
+    "static/js/2.834e3e5f.chunk.js.LICENSE.txt": "/static/js/2.834e3e5f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/Trebuchet MS.48c4ef39.ttf",
+    "static/media/index.scss": "/static/media/background.3afa967c.png",
+    "static/media/Item.scss": "/static/media/cat.b5431269.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed23fbc9.js",
+    "static/js/2.834e3e5f.chunk.js",
+    "static/css/main.7bc5bb74.chunk.css",
+    "static/js/main.0ce55c8c.chunk.js"
+  ]
+}

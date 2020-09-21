@@ -1,0 +1,39 @@
+@font-face {
+	src: url('./fonts/Exo2.0-Thin.otf');
+	font-family: "Exo";
+}
+
+@font-face {
+	src: url('./fonts/Trebuchet MS.ttf');
+	font-family: "Trebuchet MS";
+}
+
+.app {
+	text-align: center;
+
+	max-width: 1280px;
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+
+	&-title {
+		text-shadow: 0px 1px 1px;
+		color: #ffffff;
+		font-family: "Exo";
+		font-size: 36px;
+		font-weight: 400;
+		line-height: 48px;
+		text-align: center;
+		margin-bottom: 20px;
+	}
+
+	&-list {
+		display: flex;
+		justify-content: space-evenly;
+		width: 100%;
+
+	}
+}
